@@ -1,4 +1,4 @@
-# 📊 Data Science Journey
+# 📊 Data Science Projects
 
 Welcome to my **Data Science Journey** 🚀  
 
