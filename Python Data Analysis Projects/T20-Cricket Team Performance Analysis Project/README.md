@@ -1,6 +1,6 @@
 # 🏏 T20 Cricket Team Performance Analysis System
 
-A **data-driven cricket performance evaluation system** built using **Python, Pandas, Seaborn, and Streamlit**.
+A **data-driven cricket performance evaluation system** built using **Python, Pandas, Matplotlib, Seaborn, and Streamlit**.
 
 This project analyzes **T20 cricket match-level datasets** to evaluate player performance in a structured and unbiased way.  
 It supports both **single match datasets and multiple match datasets**.
