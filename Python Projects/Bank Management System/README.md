@@ -43,7 +43,7 @@ All data is stored locally using JSON files, simulating a simple banking databas
 Bank Management System
 │
 ├── app.py              # Main Streamlit application
-├── main.py         # Terminal version of the banking system
+├── terminal.py         # Terminal version of the banking system
 │
 ├── data.json           # Main bank database
 ├── sbi.json            # SBI bank database
