@@ -36,11 +36,9 @@ This project simulates real-world library operations using JSON-based storage, p
 - Unique ID generation for books and members
 
 ---
+# 📁 Project Structure
 
-📁 Project Structure
-
-...
-
+```
 Library-Management-System
 │
 ├── app.py
@@ -53,7 +51,7 @@ Library-Management-System
 │   # Database storing books and members
 │
 └── README.md
-...
+```
 ---
 
 ⚙️ Technologies Used
