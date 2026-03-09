@@ -38,9 +38,35 @@ All data is stored locally using JSON files, simulating a simple banking databas
 
 ---
 
-🗂 Project Structure
+📁 Project Structure
 
-Bank Management System/ │ ├── app.py          # Streamlit web application ├── main.py         # Terminal version of the banking system │ ├── data.json       # Main bank database ├── sbi.json        # SBI bank database ├── pnb.json        # PNB bank database ├── indian.json     # Indian Bank database ├── canera.json     # Canera Bank database ├── bob.json        # Bank of Baroda database │ └── README.md
+Bank-Management-System
+│
+├── app.py
+│   # Streamlit web application
+│
+├── main.py
+│   # Terminal version of the banking system
+│
+├── data.json
+│   # Main bank database
+│
+├── sbi.json
+│   # SBI bank database
+│
+├── pnb.json
+│   # PNB bank database
+│
+├── indian.json
+│   # Indian Bank database
+│
+├── canera.json
+│   # Canera Bank database
+│
+├── bob.json
+│   # Bank of Baroda database
+│
+└── README.md
 
 ---
 
