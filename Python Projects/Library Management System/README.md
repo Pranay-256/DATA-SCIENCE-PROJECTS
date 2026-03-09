@@ -40,6 +40,7 @@ This project simulates real-world library operations using JSON-based storage, p
 📁 Project Structure
 
 ...
+
 Library-Management-System
 │
 ├── app.py
@@ -53,7 +54,6 @@ Library-Management-System
 │
 └── README.md
 ...
-
 ---
 
 ⚙️ Technologies Used
