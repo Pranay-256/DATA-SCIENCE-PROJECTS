@@ -5,6 +5,7 @@ A Python-based File and Folder Handling System that demonstrates how to perform 
 This project is divided into two parts:
 
 1️⃣ Basic File Handling
+
 2️⃣ Advanced File & Folder Handling
 
 The project uses Python modules like Pathlib, OS, and Shutil to perform file operations such as creating, reading, updating, deleting files, and managing folders.
