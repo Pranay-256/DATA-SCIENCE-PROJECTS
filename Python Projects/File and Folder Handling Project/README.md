@@ -42,8 +42,9 @@ The project uses Python modules like Pathlib, OS, and Shutil to perform file ope
 
 ---
 
-📁 Project Structure
+# 📁 Project Structure
 
+```
 File-and-Folder-Handling-Project
 │
 ├── filehandling_project.py
@@ -53,6 +54,7 @@ File-and-Folder-Handling-Project
 │   # Advanced file and folder management
 │
 └── README.md
+```
 
 ---
 
