@@ -286,6 +286,12 @@ streamlit run app.py
 
 ---
 
+## 🎥 Video Demonstration
+
+👉 *(Add your demo video link here — YouTube / LinkedIn / Google Drive)*
+
+---
+
 # 👨‍💻 Author
 
 **Pranay Jha**
