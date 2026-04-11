@@ -7,7 +7,7 @@ It supports both **single match datasets and multiple match datasets**.
 
 The project was first developed as a **Jupyter Notebook for data analysis**, and later converted into an **interactive Streamlit web application**.
 
-**🔗Project link :** https://t20--team-performance-analyzer.streamlit.app/
+**🔗Project link :** https://t20-team-performance-analyzer.streamlit.app/
 
 ---
 
